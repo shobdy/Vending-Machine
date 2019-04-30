@@ -1,0 +1,3 @@
+2019-02-07 6:12PM CST - Got the Vending Machine Web App working with online database.
+    Need to set up a button to reset the inventory to default.
+

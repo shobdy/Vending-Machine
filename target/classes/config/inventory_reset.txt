@@ -1,0 +1,9 @@
+1::M & Ms::0.85::8
+2::Snickers::0.90::8
+3::Mounds::1.00::3
+4::100 Grand Bar::1.00::14
+5::Honey Bun::0.90::1
+6::Ding Dongs::1.25::7
+7::Coke::1.50::10
+8::Chocolate Milk::1.50::10
+9::Sprite::1.50::8
