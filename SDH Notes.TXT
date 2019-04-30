@@ -1,3 +1,3 @@
 2019-02-07 6:12PM CST - Got the Vending Machine Web App working with online database.
     Need to set up a button to reset the inventory to default.
-
+2019-04-30 4:15pm - Changed spring-persistance to remove user pass and URL for security purposes. You have them stored on your notes.
